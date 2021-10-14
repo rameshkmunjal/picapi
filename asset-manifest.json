@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rameshkmunjal/picapi/static/css/main.718aa75e.chunk.css",
+    "main.js": "/rameshkmunjal/picapi/static/js/main.08c6a01d.chunk.js",
+    "main.js.map": "/rameshkmunjal/picapi/static/js/main.08c6a01d.chunk.js.map",
+    "runtime-main.js": "/rameshkmunjal/picapi/static/js/runtime-main.cf7f6610.js",
+    "runtime-main.js.map": "/rameshkmunjal/picapi/static/js/runtime-main.cf7f6610.js.map",
+    "static/js/2.4ea05724.chunk.js": "/rameshkmunjal/picapi/static/js/2.4ea05724.chunk.js",
+    "static/js/2.4ea05724.chunk.js.map": "/rameshkmunjal/picapi/static/js/2.4ea05724.chunk.js.map",
+    "index.html": "/rameshkmunjal/picapi/index.html",
+    "static/css/main.718aa75e.chunk.css.map": "/rameshkmunjal/picapi/static/css/main.718aa75e.chunk.css.map",
+    "static/js/2.4ea05724.chunk.js.LICENSE.txt": "/rameshkmunjal/picapi/static/js/2.4ea05724.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf7f6610.js",
+    "static/js/2.4ea05724.chunk.js",
+    "static/css/main.718aa75e.chunk.css",
+    "static/js/main.08c6a01d.chunk.js"
+  ]
+}
